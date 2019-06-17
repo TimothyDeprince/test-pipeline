@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/timothydeprince/timothydeprince/_apis/build/status/TimothyDeprince.test-pipeline?branchName=master)](https://dev.azure.com/timothydeprince/timothydeprince/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
